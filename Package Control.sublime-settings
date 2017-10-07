@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Tag"
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"ayu",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"CSScomb",
+		"Emmet",
+		"Fix Mac Path",
+		"HTML5",
+		"Japanize",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"Smart Delete",
+		"Sublime Files",
+		"SublimeLinter",
+		"Tag",
+		"TrailingSpaces",
+		"Vue Syntax Highlight",
+		"WordPress"
+	]
+}
