@@ -1,9 +1,7 @@
 {
 	"bootstrapped": true,
 	"in_process_packages":
-	[
-		"Tag"
-	],
+	[],
 	"installed_packages":
 	[
 		"A File Icon",
@@ -26,7 +24,6 @@
 		"Smart Delete",
 		"Sublime Files",
 		"SublimeLinter",
-		"Tag",
 		"TrailingSpaces",
 		"Vue Syntax Highlight",
 		"WordPress"

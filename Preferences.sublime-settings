@@ -7,7 +7,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Tag",
 		"Vintage"
 	],
 	"line_padding_top": 5,
